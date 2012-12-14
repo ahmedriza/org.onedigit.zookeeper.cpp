@@ -1,0 +1,10 @@
+Debug/
+org.onedigit.zookeeper.cpp.ncb
+*.dll
+*.exe
+*.obj
+*.o
+*.htm
+*.user
+*.suo
+*~
